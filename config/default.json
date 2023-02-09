@@ -1,0 +1,13 @@
+{
+  "JOB_KEYWORDS":[
+    "data science",
+    "full stack developer",
+    "data analyst",
+    "injection"
+  ],
+  "SCAN_INTERVAL_MINUTES":15,
+  "TELEGRAM":{
+    "CHAT_ID":"-1001508726247",
+    "TOKEN":"5393510627:AAGE0BTLlnbnNxKy7s8dd7EDt2gCCP40B28"
+  }
+}
